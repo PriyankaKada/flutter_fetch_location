@@ -1,0 +1,37 @@
+[
+  {
+    "userId": "user1",
+    "username": "Alice",
+    "latitude": 19.2553,
+    "longitude": 72.8622,
+    "timestamp": "2023-05-15T10:30:00Z"
+  },
+  {
+    "userId": "user2",
+    "username": "Bob",
+    "latitude": 19.2183,
+    "longitude": 72.9781,
+    "timestamp": "2023-05-15T10:32:00Z"
+  },
+  {
+    "userId": "user3",
+    "username": "Charlie",
+    "latitude": 19.0760,
+    "longitude": 72.8777,
+    "timestamp": "2023-05-15T10:31:00Z"
+  },
+  {
+    "userId": "user4",
+    "username": "kyle",
+    "latitude": 19.0330,
+    "longitude": 73.0297,
+    "timestamp": "2023-05-15T10:31:00Z"
+  },
+  {
+    "userId": "user5",
+    "username": "Eva",
+    "latitude": 18.9750,
+    "longitude": 72.8258,
+    "timestamp": "2023-05-15T10:31:00Z"
+  }
+]
